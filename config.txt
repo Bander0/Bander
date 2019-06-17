@@ -1,6 +1,6 @@
 owner=264421278692147202
 prefix=Br
-game=BrHelp
+game=Listen only
 stayinchannel=true
 songinstatus=true 
 token=NDg3NDYzMzk2Nzk1NzQ0Mjc2.XLhYrA.EgwqORA54BlEB_cW8EcUCqaC5kI
