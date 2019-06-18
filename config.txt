@@ -3,4 +3,4 @@ prefix=Br
 game=Listen only
 stayinchannel=true
 songinstatus=true 
-token=NDg3NDYzMzk2Nzk1NzQ0Mjc2.XLhYrA.EgwqORA54BlEB_cW8EcUCqaC5kI
+token=NDQwMDcyMTM0Mjk1ODE0MTU0.XQjXfQ._vOQvYSFESWICxf18r4QTugTa0U
