@@ -1,5 +1,0 @@
-owner=264421278692147202
-prefix=Br
-stayinchannel=true
-songinstatus=true 
-token=NDQwMDcyMTM0Mjk1ODE0MTU0.XQjXfQ._vOQvYSFESWICxf18r4QTugTa0U
